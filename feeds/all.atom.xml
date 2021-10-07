@@ -1,11 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Khang's</title><link href="https://kdvuong.github.io/" rel="alternate"></link><link href="https://kdvuong.github.io/feeds/all.atom.xml" rel="self"></link><id>https://kdvuong.github.io/</id><updated>2019-01-07T08:00:00-07:00</updated><entry><title>My First Article</title><link href="https://kdvuong.github.io/my-first-article.html" rel="alternate"></link><published>2019-01-07T08:00:00-07:00</published><updated>2019-01-07T08:00:00-07:00</updated><author><name>Khang Vuong</name></author><id>tag:kdvuong.github.io,2019-01-07:/my-first-article.html</id><content type="html">&lt;p&gt;I like free static web hosting.&lt;/p&gt;</content><category term="Blog"></category></entry><entry><title>My Hobby</title><link href="https://kdvuong.github.io/my-hobby.html" rel="alternate"></link><published>2019-01-07T08:00:00-07:00</published><updated>2019-01-07T08:00:00-07:00</updated><author><name>Khang Vuong</name></author><id>tag:kdvuong.github.io,2019-01-07:/my-hobby.html</id><content type="html">&lt;p&gt;I like to collect mechanical keyboards. To build a mechanical keyboard, you need to buy and assemble the following parts: switches, stabilizers, pcb, keyboard case, and keycaps&lt;/p&gt;</content><category term="Blog"></category></entry><entry><title>My Smoothie Recipe</title><link href="https://kdvuong.github.io/my-smoothie-recipe.html" rel="alternate"></link><published>2019-01-07T08:00:00-07:00</published><updated>2019-01-07T08:00:00-07:00</updated><author><name>Khang Vuong</name></author><id>tag:kdvuong.github.io,2019-01-07:/my-smoothie-recipe.html</id><summary type="html">&lt;p&gt;A booster juice cost $7 which is pretty expensive if you want a smoothie everyday. I have recently bought a blender. Below is my smoothie recipe:
-1. 1 handful of each frozen fruits: mango, strawberry, and pineapple
-2. 1 table spoonful of yogurt
-3. 1 cup of ice
-4. half …&lt;/p&gt;</summary><content type="html">&lt;p&gt;A booster juice cost $7 which is pretty expensive if you want a smoothie everyday. I have recently bought a blender. Below is my smoothie recipe:
-1. 1 handful of each frozen fruits: mango, strawberry, and pineapple
-2. 1 table spoonful of yogurt
-3. 1 cup of ice
-4. half cup of orange juice
-5. 1 and a half table spoon of sugar&lt;/p&gt;</content><category term="Blog"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Khang's</title><link href="https://kdvuong.github.io/" rel="alternate"></link><link href="https://kdvuong.github.io/feeds/all.atom.xml" rel="self"></link><id>https://kdvuong.github.io/</id><updated>2019-01-07T08:00:00-07:00</updated><entry><title>How to live</title><link href="https://kdvuong.github.io/how-to-live.html" rel="alternate"></link><published>2019-01-07T08:00:00-07:00</published><updated>2019-01-07T08:00:00-07:00</updated><author><name>Khang Vuong</name></author><id>tag:kdvuong.github.io,2019-01-07:/how-to-live.html</id><content type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Eat food&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Drink water&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sleep 8 hours a day&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Blog"></category></entry><entry><title>My First Article</title><link href="https://kdvuong.github.io/my-first-article.html" rel="alternate"></link><published>2019-01-07T08:00:00-07:00</published><updated>2019-01-07T08:00:00-07:00</updated><author><name>Khang Vuong</name></author><id>tag:kdvuong.github.io,2019-01-07:/my-first-article.html</id><content type="html">&lt;p&gt;I like free static web hosting.&lt;/p&gt;</content><category term="Blog"></category></entry><entry><title>My Hobby</title><link href="https://kdvuong.github.io/my-hobby.html" rel="alternate"></link><published>2019-01-07T08:00:00-07:00</published><updated>2019-01-07T08:00:00-07:00</updated><author><name>Khang Vuong</name></author><id>tag:kdvuong.github.io,2019-01-07:/my-hobby.html</id><content type="html">&lt;p&gt;I like to collect mechanical keyboards. 
+To build a mechanical keyboard, you need to buy and assemble the following parts:
+1. switches&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;stabilizers&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;pcb&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;keyboard case&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;keycaps&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Blog"></category></entry><entry><title>My Smoothie Recipe</title><link href="https://kdvuong.github.io/my-smoothie-recipe.html" rel="alternate"></link><published>2019-01-07T08:00:00-07:00</published><updated>2019-01-07T08:00:00-07:00</updated><author><name>Khang Vuong</name></author><id>tag:kdvuong.github.io,2019-01-07:/my-smoothie-recipe.html</id><summary type="html">&lt;p&gt;A booster juice cost $7 which is pretty expensive if you want a smoothie everyday. &lt;/p&gt;
+&lt;p&gt;I have recently bought a blender. Below is my smoothie recipe:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;1 handful of each frozen fruits: mango, strawberry, and pineapple&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 table spoonful of yogurt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 cup of ice&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;half cup of orange juice …&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;p&gt;A booster juice cost $7 which is pretty expensive if you want a smoothie everyday. &lt;/p&gt;
+&lt;p&gt;I have recently bought a blender. Below is my smoothie recipe:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;1 handful of each frozen fruits: mango, strawberry, and pineapple&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 table spoonful of yogurt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 cup of ice&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;half cup of orange juice&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 and a half table spoon of sugar&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Blog"></category></entry></feed>
